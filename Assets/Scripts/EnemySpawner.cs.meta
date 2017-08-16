@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff23fb07bac67584e9a8e44c0bf1efba
+timeCreated: 1500931207
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {fileID: 1807830305710234, guid: 6b3d957b9d4f5bf4d821b74f25133bd1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
